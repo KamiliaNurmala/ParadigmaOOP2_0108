@@ -30,4 +30,12 @@ int main() {
 	seseorang* objek;
 	joko a;
 	lia b;
+
+	objek = &a;
+	objek->pesan();
+	objek = &b;
+	objek->pesan();
+	// a.sesorang::pesan();
+
+	return 0;
 }
