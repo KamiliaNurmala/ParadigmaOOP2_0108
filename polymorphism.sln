@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NoOverridding", "NoOverridd
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Abstraksi", "Abstraksi\Abstraksi.vcxproj", "{DD1006B2-A812-4467-9ABA-85D18C42653F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiWariks", "MultiWariks\MultiWariks.vcxproj", "{7EA8A273-751E-43CF-A8BC-F815B2ADD18B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{DD1006B2-A812-4467-9ABA-85D18C42653F}.Release|x64.Build.0 = Release|x64
 		{DD1006B2-A812-4467-9ABA-85D18C42653F}.Release|x86.ActiveCfg = Release|Win32
 		{DD1006B2-A812-4467-9ABA-85D18C42653F}.Release|x86.Build.0 = Release|Win32
+		{7EA8A273-751E-43CF-A8BC-F815B2ADD18B}.Debug|x64.ActiveCfg = Debug|x64
+		{7EA8A273-751E-43CF-A8BC-F815B2ADD18B}.Debug|x64.Build.0 = Debug|x64
+		{7EA8A273-751E-43CF-A8BC-F815B2ADD18B}.Debug|x86.ActiveCfg = Debug|Win32
+		{7EA8A273-751E-43CF-A8BC-F815B2ADD18B}.Debug|x86.Build.0 = Debug|Win32
+		{7EA8A273-751E-43CF-A8BC-F815B2ADD18B}.Release|x64.ActiveCfg = Release|x64
+		{7EA8A273-751E-43CF-A8BC-F815B2ADD18B}.Release|x64.Build.0 = Release|x64
+		{7EA8A273-751E-43CF-A8BC-F815B2ADD18B}.Release|x86.ActiveCfg = Release|Win32
+		{7EA8A273-751E-43CF-A8BC-F815B2ADD18B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
